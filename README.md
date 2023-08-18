@@ -32,7 +32,7 @@ _**Link to test card payment details provided by Stripe**_ 👉&nbsp; https://st
 
 <div align="center">
   <img src="./screenshots/Screen-Recording-Cook-Book.gif" width="250">
-   [click me to download](https://github.com/ohmysaudi/CookBook-ReactNative/RecipeApp-release-v1-0.apk)
+   [click me to download](https://github.com/ohmysaudi/CookBook-ReactNative/apk/RecipeApp-release-v1-0.apk)
 </div>
 
 ### :1234: Instructions to Preview (_iOS users, see note below_)
