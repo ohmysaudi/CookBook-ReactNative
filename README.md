@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  🍉 <em>CookBook</em>
+  🍩 <em>CookBook</em>
 </h1>
 
 <div align="center">
