@@ -92,12 +92,10 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./assets/screenshots/app-preview-1.gif" width="250">
-    <img src="./assets/screenshots/app-preview-map.png" width="250">
-    <img src="./assets/screenshots/app-preview-2.gif" width="250">
-    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
-    <img src="./assets/screenshots/app-preview-3.gif" width="250">
-    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
+    <img src="./screenshots/Screen-Recording-Cook-Book.gif" width="250">
+    <img src="./screenshots/Screenshot_Cook Book_1.jpg" width="250">
+    <img src="./screenshots/Screenshot_Cook Book_2.jpg" width="250">
+    <img src="./screenshots/Screenshot_Cook Book_3.jpg" width="250">
 </p>
 
 ## :memo: License <a aria-label="YumMeals is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
