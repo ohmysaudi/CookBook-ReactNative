@@ -36,22 +36,17 @@ The app is using an open source api provided by [TheMealDB](https://www.themeald
 
 👉&nbsp; [Project Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_6fab6816-4e33-4ab2-9039-1cab4f972b3d 'YumMeals App Architecture Diagram')
 
-- :arrow_up_small:&nbsp; [Expo](https://expo.io/ 'Expo')
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
 - :page_with_curl:&nbsp; [React Native Paper](https://callstack.github.io/react-native-paper/index.html 'React Native Paper')
 - :link:&nbsp; [React Navigation](https://reactnavigation.org/ 'React Navigation')
 - :performing_arts:&nbsp; [Styled Components](https://styled-components.com/ 'Styled Components')
 - :fire:&nbsp; [Firebase Authentication & Cloud Functions](https://firebase.google.com/)
-- :credit_card:&nbsp; [Stripe Payment API](https://stripe.com/docs/payments 'Stripe Payments')
-- :world_map:&nbsp; [Google Places APIs](https://developers.google.com/maps/documentation/places/web-service/overview 'Google Places APIs')
 
 ## :sparkles: Main Features
 
-- Register & Login authentication through email & password.
-- Location search through cities around the world to discover restaurants.
-- Customizable user avatar utilizing mobile device camera with user permissions.
-- Online order placing and checkout, along with option for users to save restaurant(s) as their favourites.
-- Payment processing and authentication through Stripe. (👉&nbsp;_**[List of test payment cards for this feature](https://stripe.com/docs/testing#cards 'Test card details by Stripe')**_)
+- Recipe search by name and type.
+- List of random meals and many more.
+- Api integration using fetch.
 
 ## :camera_flash: Screenshots
 
@@ -61,7 +56,7 @@ The app is using an open source api provided by [TheMealDB](https://www.themeald
     <img src="./screenshots/Screenshot_Cook Book_3.jpg" width="250">
 </p>
 
-## :memo: License <a aria-label="YumMeals is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
+## :memo: License <a aria-label="CookBook is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
 
 This project is under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
 
