@@ -31,39 +31,6 @@ The app is using an open source api provided by [TheMealDB](https://www.themeald
 </div>
 
 
-### :1234: Instructions to Preview (_iOS users, see note below_)
-
-1. Head over to the Google Play Store and download the Expo Go app
-
-   - Link: https://play.google.com/store/apps/details?id=host.exp.exponent
-
-2. Open the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent 'Expo Go') app or simply go to the [Expo website](https://expo.io/ 'Expo') and follow the instructions to register for an Expo account
-
-   - Note: _**You will need an account on Expo in order to view the app!**_
-
-3. After completing step 1 and 2 above, open your device camera and scan the provided QR code in the link below:
-
-   - Link: https://expo.io/@bernn/YumMeals (_**Published version of app hosted on Expo**_)
-
-4. After scanning the QR code, the Expo Go app will automatically load up the app
-
-   - Note: _**If this is your first time opening the app, it might take a while to load up. Please be patient!**_
-
-5. Enjoy! The app should be successfully loaded by now. Please feel free to play around and test out its features. If for any reason the app couldn't be loaded or any of the features are breaking, please report the issue at the link below.
-
-   - Link: https://github.com/BernStrom/YumMeals/issues
-
-### :bangbang: IMPORTANT! - _Note for iOS users_
-
-Unfortunately, iOS users will not be able to preview the published app hosted on Expo. This issue is due to restrictions imposed by Apple and not by Expo itself.
-
-Please refer to this Expo documentation link for further information on this restriction:
-
-- Link: https://docs.expo.io/workflow/publishing/#on-ios-you-cant-share-your-published
-
-Due to the nature of this project objective being an educational and experimental one in learning more about working with [React Native](https://reactnative.dev/ 'React Native') and the [Expo](https://expo.io/ 'Expo') framework in a production-like environment mimicking a professional workflow, this app isn't built for distributing officially to either the [Play Store](https://play.google.com/store 'Google Play Store') or the [App Store](https://www.apple.com/app-store/ 'App Store').
-
-For this, please refer to the app screenshots below. A mixture of both screenshot pictures and GIFs is provided as an alternative for previewing the app.
 
 ## :gear: Core Tech Stack
 
