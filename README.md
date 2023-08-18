@@ -20,7 +20,7 @@
 
 ## :calling: About
 
-CookBook is an online food ordering app that resembles a simpler version of similar modern large-scale apps such as [Uber Eats](https://www.ubereats.com/ 'Uber Eats') and [DoorDash](https://www.doordash.com/ 'DoorDash'). Core features include location searching with city names, which displays a list of restaurants found within the search results vicinity, along with user register/login authentication, a settings screen with customizable user avatar and the option to store restaurant(s) as favourites.
+CookBook is an online food recipe app that resembles a simpler version of similar modern large-scale apps such as [Uber Eats](https://www.ubereats.com/ 'Uber Eats') and [DoorDash](https://www.doordash.com/ 'DoorDash'). Core features include location searching with city names, which displays a list of restaurants found within the search results vicinity, along with user register/login authentication, a settings screen with customizable user avatar and the option to store restaurant(s) as favourites.
 
 The app also comes with an ordering and payment feature which utilizes services from the Stripe API. Users can place orders from the restaurant menu and add them to the cart before checking out. The user interface for the payment input field, with a minimalist design, can be found alongside the cart summary for easy reference to the user's order summary during the checkout process.
 
@@ -30,7 +30,10 @@ _**Link to test card payment details provided by Stripe**_ 👉&nbsp; https://st
 
 ## :eyes: Preview
 
-[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/@bernn/YumMeals)
+<div align="center">
+  <img src="./screenshots/Screen-Recording-Cook-Book.gif" width="250">
+   [click me to download](https://github.com/ohmysaudi/CookBook-ReactNative/RecipeApp-release-v1-0.apk)
+</div>
 
 ### :1234: Instructions to Preview (_iOS users, see note below_)
 
@@ -90,7 +93,6 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./screenshots/Screen-Recording-Cook-Book.gif" width="250">
     <img src="./screenshots/Screenshot_Cook Book_1.jpg" width="250">
     <img src="./screenshots/Screenshot_Cook Book_2.jpg" width="250">
     <img src="./screenshots/Screenshot_Cook Book_3.jpg" width="250">
