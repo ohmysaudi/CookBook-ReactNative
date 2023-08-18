@@ -20,22 +20,14 @@
 
 ## :calling: About
 
-CookBook is an online food recipe app that resembles a simpler version of similar modern large-scale apps such as [Uber Eats](https://www.ubereats.com/ 'Uber Eats') and [DoorDash](https://www.doordash.com/ 'DoorDash'). Core features include location searching with city names, which displays a list of restaurants found within the search results vicinity, along with user register/login authentication, a settings screen with customizable user avatar and the option to store restaurant(s) as favourites.
+CookBook is an online food recipe app made in [React Native](https://reactnative.dev/ 'React Native'). This project aims to be a basic understandings for react-native including Api Integrations and navigation.
 
-The app also comes with an ordering and payment feature which utilizes services from the Stripe API. Users can place orders from the restaurant menu and add them to the cart before checking out. The user interface for the payment input field, with a minimalist design, can be found alongside the cart summary for easy reference to the user's order summary during the checkout process.
-
-The integrated Stripe payment service accepts any valid debit/ credit card. However, since this isn't a fully published production app, the payment feature is set to testing mode to mimic a real-life payment flow. For this, Stripe has provided a list of sample payment card details for testing purposes that users can use to make payments in this app.
-
-_**Link to test card payment details provided by Stripe**_ 👉&nbsp; https://stripe.com/docs/testing#cards
+The app is using an open source api provided by [TheMealDB](https://www.themealdb.com/, 'TheMealDB'). Note that this project is for educational purpose and not in any commercial use.
 
 ## :eyes: Preview
 
-<div align="center">
+<div align="center">`
   <img src="./screenshots/Screen-Recording-Cook-Book.gif" width="250">
-</div>
-<div align="center">
-   <a href="https://github.com/ohmysaudi/CookBook-ReactNative/blob/master/apk/RecipeApp-release-v1-0.apk" download>Click to Download</a>
-   [click](https://github.com/ohmysaudi/CookBook-ReactNative/blob/master/apk/RecipeApp-release-v1-0.apk)
 </div>
 
 
