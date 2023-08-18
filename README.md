@@ -13,10 +13,8 @@
 </h1>
 
 <div align="center">
-  <img src="./assets/images/icon@3x.png" alt="App brand icon" />
+  <img src="./screenshots/App_Icon.png" alt="App brand icon" />
 </div>
-
-<p align="center">Icons made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a></p>
 
 <br />
 
