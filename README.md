@@ -34,7 +34,6 @@ The app is using an open source api provided by [TheMealDB](https://www.themeald
 
 ## :gear: Core Tech Stack
 
-👉&nbsp; [Project Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_6fab6816-4e33-4ab2-9039-1cab4f972b3d 'YumMeals App Architecture Diagram')
 
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
 - :page_with_curl:&nbsp; [React Native Paper](https://callstack.github.io/react-native-paper/index.html 'React Native Paper')
