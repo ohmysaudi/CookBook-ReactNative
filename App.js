@@ -5,6 +5,7 @@ import HomeScreen from './src/views/HomeScreen';
 import DetailsScreen from './src/views/DetailsScreen';
 import ResipesScreen from './src/views/ResipesScreen';
 
+// Folder structure added
 
 const Stack = createNativeStackNavigator();
 
