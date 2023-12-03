@@ -6,6 +6,7 @@ import DetailsScreen from './src/views/DetailsScreen';
 import ResipesScreen from './src/views/ResipesScreen';
 
 // Folder structure added
+// TODO: Need to make common reusable class for Network apis.
 
 const Stack = createNativeStackNavigator();
 
